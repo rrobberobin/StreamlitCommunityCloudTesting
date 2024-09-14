@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+azure-cognitiveservices-speech==1.40.0
+ipython==8.12.3
+audio_recorder_streamlit==0.0.10
